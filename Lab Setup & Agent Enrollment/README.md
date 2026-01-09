@@ -59,5 +59,23 @@ Successful enrollment was verified through:
 
 Screenshots below provide evidence of agent installation and active communication.
 
+### Ubuntu Agent Installation
+
+![Ubuntu Agent Installation](Screenshots/Ubuntu-agent-install.png)
+
+
+### Ubuntu Agent Start-Up
+
+![Ubuntu Agent Installation](Screenshots/Ubuntu-agent2-install.png)
+
+
+### Windows Agent Installation
+
+![Windows Agent Installation](Screenshots/Windows-agent-install.png)
+
+
+### Wazuh Dashboard – Active Agents
+
+![Wazuh Dashboard](Screenshots/Windows+Ubuntu-connected.png)
 
 
