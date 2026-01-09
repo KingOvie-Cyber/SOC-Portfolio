@@ -30,7 +30,7 @@ The lab is designed to simulate an enterprise environment where endpoint logs ar
 - Security monitoring
 - Documentation and reporting
 
--The virtual machines used in this lab were pre-provisioned as part of an existing home lab. This phase focuses on integrating these systems into the SOC environment via Wazuh agent enrollment and validating log ingestion.
+### The virtual machines used in this lab were pre-provisioned as part of an existing home lab. This phase focuses on integrating these systems into the SOC environment via Wazuh agent enrollment and validating log ingestion.
 
 
 # Phase 2: Lab Setup & Agent Enrollment
