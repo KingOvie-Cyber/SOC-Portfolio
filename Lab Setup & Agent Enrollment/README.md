@@ -76,6 +76,6 @@ Screenshots below provide evidence of agent installation and active communicatio
 
 ### Wazuh Dashboard – Active Agents
 
-![Wazuh Dashboard](Screenshots/Windows+Ubuntu-connected.png)
+![Wazuh Dashboard](Screenshots/Windows+Ubuntu-agent-connected.png)
 
 
