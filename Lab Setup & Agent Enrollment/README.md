@@ -9,7 +9,15 @@ This section documents the design and setup of my Security Operations Center (SO
 
 ## Lab Components
 - Kali Linux (attack simulation)
-- Windows 10 (endpoint log source)
+-Wazuh Manager: Ubuntu Server (version)
+	•	Wazuh Dashboard: Windows Server 2025
+	•	Endpoints:
+	•	Windows 11
+	•	Windows 10
+	•	Windows Server 2019
+	•	Windows Server 2022
+	•	Windows Server 2025
+	•	Ubuntu (endpoint)
 - Wazuh SIEM (log collection, correlation, and alerting)
 - Virtualization (VMware / VirtualBox)
 
