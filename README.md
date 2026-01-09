@@ -10,7 +10,7 @@ This repository contains hands-on Security Operations Center (SOC) projects focu
 
 ## Lab Environment
 - Kali Linux (attack simulation)
-- Windows 10 (endpoint log source)
+- Windows Systems + Ubuntu (endpoint log source)
 - Wazuh SIEM (log collection and alerting)
 
 ## Projects
