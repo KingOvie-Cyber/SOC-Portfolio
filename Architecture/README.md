@@ -54,4 +54,14 @@ This lab is designed to simulate real-world SOC monitoring, detection, and respo
 This document represents the **design phase only**.
 No systems have been installed, configured, or tested at this stage.
 
+
+## SOC Lab Architecture
+
+The diagram below illustrates the architecture of the SOC lab, including:
+- Wazuh SIEM (Elastic Stack backend)
+- 5 Windows endpoints (Wazuh agents)
+- 1 Ubuntu endpoint (Wazuh agent)
+
+![SOC Architecture](SOC-Architecture.jpeg)
+
 Implementation, attacks, detections, and incident response are covered in later phases.
