@@ -78,4 +78,6 @@ Screenshots below provide evidence of agent installation and active communicatio
 
 ![Wazuh Dashboard](Screenshots/Windows+Ubuntu-agent-connected.png)
 
+### NOTE
+- Wazuh agents were deployed centrally. In enterprise environments this is typically performed via Active Directory GPOs, while detection logic and monitoring policies are centrally managed through the Wazuh Manager.
 
