@@ -92,6 +92,6 @@ This phase demonstrates practical detection skills, including validating alerts,
 
 ---
 
-## Next phase
+## Screenshot below shows the creation, modification and the deletion of the file and how the wazuh captures this event in real time and logs them down.
 
-The next phase of this project will focus on **Incident Response**, where the detected file integrity events will be analyzed, documented, and handled as a simulated security incident.
+
